@@ -10,7 +10,7 @@
 ---
 
 ## 📸 Live Website
-
+👉 Click here to visit [http://unievents-alb-911721073.us-east-1.elb.amazonaws.com/]
 ![UniEvent Live Website](screenshots/live-website.png)
 
 ---
