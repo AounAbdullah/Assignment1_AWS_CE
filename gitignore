@@ -1,0 +1,30 @@
+# -------------------------------------------------------
+# UniEvent — .gitignore
+# Files listed here will NEVER be uploaded to GitHub
+# -------------------------------------------------------
+
+# Environment variables — contains secret API keys!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Application logs
+*.log
+app.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
